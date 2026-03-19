@@ -1,4 +1,4 @@
-# SA.Pyramid2DFXFix
+# Pyramid 2DFX Fix
 
 The pyramid in Las Venturas had iffy 2DFX. With this the coronas no longer turn on and off every 5 seconds or disappear at certain camera angles.
 
